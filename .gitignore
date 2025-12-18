@@ -1,0 +1,29 @@
+# Build artifacts
+/build/
+*.so
+*.exe
+*.dll
+*.dylib
+*.a
+*.lib
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.cbp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Image files that are not source code
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.ico
+
+# Configuration files that may contain local paths
+.clangd

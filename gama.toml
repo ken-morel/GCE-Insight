@@ -1,0 +1,11 @@
+
+name = "gce_insight"
+description = "Predictive Analysis of Subject Performance"
+version = "0.1.0"
+author = "gama"
+
+[gama]
+
+version = "0.1.0"
+compiler = "/usr/bin/gcc"
+		
