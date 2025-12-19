@@ -33,8 +33,8 @@ Before using GCE-Insights, you need:
 ## Installation and Setup
 
 ### Setting up Gama Engine
-1. Install Gama Engine following the official documentation
-2. Verify installation by running `gama --version`
+1. Install Gama Engine following the official [documentation](https://gama.rbs.cm/docs)
+2. Verify installation by running `gama create`
 
 ### Cloning/Installing GCE-Insights
 1. Navigate to your Gama projects directory
