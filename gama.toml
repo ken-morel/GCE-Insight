@@ -1,4 +1,5 @@
 
+uuid = "019bd808-ffe3-77ed-90ff-99aec4f8786e"
 name = "gce_insight"
 description = "Predictive Analysis of Subject Performance"
 version = "0.1.0"
@@ -6,6 +7,5 @@ author = "gama"
 
 [gama]
 
-version = "0.1.0"
-compiler = "/usr/bin/gcc"
+version = "0.1.1"
 		
