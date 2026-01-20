@@ -191,8 +191,8 @@ void draw_data_info() {
 }
 
 int main() {
-  // Initialize Gama engine, use 0,0 size for better web support
-  gm_init(0, 0, "GCE Insight - Predicting GCE Advanced Level Performance");
+  // Initialize Gama engine, use 0,0 size for web support
+  gm_init(100, 100, "GCE Insight - Predicting GCE Advanced Level Performance");
 
   size_t gce_data_size = 0;
   const unsigned char *gce_data = data_sample_data(&gce_data_size);
